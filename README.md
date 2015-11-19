@@ -8,3 +8,4 @@ New Leaf Player streams the corresponding AC:NL track in your browser!
 ## Colophon
 AC:NL soundtrack from [dada_](https://www.reddit.com/r/AnimalCrossing/comments/2f1kyq/fixed_heres_a_download_to_almost_the_entire_acnl/) @ reddit.   
 Background image from [rush57](http://rush57.deviantart.com/art/Animal-Crossing-Grass-145470729) @ deviantart.
+Animal Crossing style text tutorial from [mylifeasstan](http://mylifeasstan.deviantart.com/art/Animal-Crossing-font-tutorial-261819674) @ deviantart.
