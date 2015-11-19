@@ -1,4 +1,4 @@
-![AC:NL Player](/app/assets/images)   
+![alt text](/app/assets/images "AC:NL Player")   
 
 Animal Crossing: New Leaf plays its soundtrack according to the time of day.
 New Leaf Player streams the corresponding AC:NL track in your browser!   
